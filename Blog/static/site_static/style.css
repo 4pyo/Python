@@ -1,0 +1,29 @@
+body {
+	background-color: #111111 ;
+}
+.all_produ_pagination
+{
+
+    margin: 0 auto;
+}
+.login_form, .froget_password, .reset_password_form,
+ .signup_form, .track_order_form, .edit_profile_form
+{
+    margin: 0 auto;
+}
+.profile, .profile_info, .order_success_info,.review_img_div
+{
+    text-align: center;
+   
+}
+.profile_img
+{
+    width: 250px;
+    height: 150px;
+}
+.review_img
+{
+    width: 150px;
+    height: 150px;
+    
+}
